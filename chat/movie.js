@@ -133,7 +133,7 @@ if (sortOnOff == 0) {
 sortOnOff = 1;
 } else {
 sortOnOff = 0;
-};
+}
 displayComments();
 })
 
