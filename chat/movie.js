@@ -135,7 +135,7 @@ sortOnOff = 1;
 sortOnOff = 0;
 };
 displayComments();
-});
+})
 
 displayComments();
 
